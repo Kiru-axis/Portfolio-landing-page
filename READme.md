@@ -1,4 +1,6 @@
+
 # Title: Portfolio landing page
+### Project Description
 ### Homepage with links to succeding pages
 ### Projects
 ### About me
@@ -7,6 +9,7 @@
 ### Author
 
 # Portfolio landing page
+### These is a project on how to create a landing page with html and css.
 ### Homepage
 #### Kiru logo
 1. Home
