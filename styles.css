@@ -20,5 +20,51 @@ header {
   align-items: center;
   color: white;
 }
+.logo {
+  margin-right: auto;
+}
 
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+.nav-links a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: green;
+}
+.nav-items {
+  padding: 0 15px;
+}
 
+#aboutme {
+  background-color: paleturquoise;
+  border-radius: 6rem;
+}
+
+.btn {
+  padding: 0 3%;
+}
+.btn:focus {
+  transform: scale(1.1);
+}
+.btn:hover {
+  color: yellow;
+}
+/* styling the projects */
+.navbar ul ul {
+  display: none;
+}
+.navbar ul li:hover > ul {
+  display: block;
+  list-style: none;
+  color: red;
+  background-color: black;
+}
+.landing-page {
+  color: white;
+  text-align: center;
+  padding: 5rem;
+}
