@@ -15,4 +15,6 @@
     + Email
 1. About me
 ### Projects
-    * [Favaourite band project:](https://kiru-axis.github.io/my-favourite-band-project/)
+* [Favaourite band project:](https://kiru-axis.github.io/my-favourite-band-project/)
+* [Ladies smart shoes collection](https://kiru-axis.github.io/Ladies-smart-shoes-collection/)
+* [Console](https://kiru-axis.github.io/console/)
