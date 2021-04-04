@@ -1,2 +1,24 @@
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* first section body styling */
+.container {
+  background-image: url(./images/revolt-164_6wVEHfI-unsplash.jpg),
+    url(./images/federico-beccari-L8126OwlroY-unsplash.jpg),
+    radial-gradient(#444, #111);
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: difference;
+}
+/* navbar styling */
+header {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  color: white;
+}
 
 
