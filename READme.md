@@ -1,10 +1,11 @@
 # Title: Portfolio landing page
 ### Homepage with links to succeding pages
-### projects
+### Projects
 ### About me
 ### Technology used
-### Link
-### images used
+### Live Link
+### Images used
+### Author
 
 # Portfolio landing page
 ### Homepage
@@ -18,3 +19,12 @@
 * [Favaourite band project:](https://kiru-axis.github.io/my-favourite-band-project/)
 * [Ladies smart shoes collection](https://kiru-axis.github.io/Ladies-smart-shoes-collection/)
 * [Console](https://kiru-axis.github.io/console/)
+### About me
+_A short biography plus hobbies_
+### Technology used
++ CSS3
++ HTML5
+###  Live Link
+* [gh-pages link](https://kiru-axis.github.io/Portfolio-landing-page/)
+### Images used
+<img src="revolt-164_6wVEHfI-unsplash.jpg" height="200px" width="200px">
