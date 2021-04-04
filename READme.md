@@ -4,7 +4,6 @@
 ### About me
 ### Technology used
 ### Live Link
-### Images used
 ### Author
 
 # Portfolio landing page
@@ -26,5 +25,5 @@ _A short biography plus hobbies_
 + HTML5
 ###  Live Link
 * [gh-pages link](https://kiru-axis.github.io/Portfolio-landing-page/)
-### Images used
-<img src="revolt-164_6wVEHfI-unsplash.jpg" height="200px" width="200px">
+### Author
+**Peter Kiru**
